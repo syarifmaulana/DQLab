@@ -13,4 +13,4 @@ Trek atau tahapan yang sudah, sedang, dan akan saya pelajari adalah sebagai beri
 7. Melakukan Investigasi dan Mendeteksi Anomali pada Data
 8. Data Analyst Project: Business Decision Research
 
-Pada kursus proyek ini bahasa pemrograman yang digunakan adalah Python.
+Pada kursus proyek ini bahasa pemrograman yang digunakan adalah Python, bersamaan dengan materi SQL, visualisasi data.
