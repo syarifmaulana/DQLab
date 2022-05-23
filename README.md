@@ -3,7 +3,7 @@ Data Analyst berperan untuk menghasilkan analisa data dan mempresentasikan insig
 
 
 
-Trek atau tahapan yang sudah, sedang, dan akan saya pelajari adalah sebagai berikut:
+### Trek atau tahapan yang sudah, sedang, dan akan saya pelajari adalah sebagai berikut:
 1. Memahami Bahasa Pemrograman Fundamental
 2. Memahami Bahasa SQL dan Sistem Database Relasional
 3. Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
@@ -14,3 +14,5 @@ Trek atau tahapan yang sudah, sedang, dan akan saya pelajari adalah sebagai beri
 8. Data Analyst Project: Business Decision Research
 
 Pada kursus proyek ini bahasa pemrograman yang digunakan adalah Python, bersamaan dengan materi SQL, visualisasi data.
+
+*** 
